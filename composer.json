@@ -1,0 +1,6 @@
+{
+    "name": "wcx/video-stream",
+    "require": {
+        "php": ">= 5.4"
+    }
+}
